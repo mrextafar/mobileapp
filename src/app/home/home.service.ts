@@ -5,9 +5,9 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class HomeService {
-
+  /*
   constructor(private http: HttpClient) { }
   getData() {
     return this.http.get('/assets/data.json')
-  }
+  }*/
 }
